@@ -1,0 +1,203 @@
+@media only screen and (max-width: 2000px) {
+    
+
+
+.headx{
+    width: 100%;
+    height: 110px;
+    background-color: #3873d9;
+    margin-bottom:5px;
+    box-sizing: border-box;
+    padding: 20px; 
+    text-align: right;
+    }
+    
+    .main{
+        height: 500px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+    }
+    
+    .leftsidebar{
+        width: 20%;
+        height: 100%;
+        box-sizing: border-box;
+        margin: auto;
+    }
+    
+    .center{
+        width: 60%;
+        height: 100%;
+        justify-content: center;
+        align-items: center;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .rightsidebar{
+        width:20%;
+        height: 100%;
+        background-color:#1bafe4;
+        box-sizing: border-box;
+        margin: auto;
+    }
+    .block2{
+        width: 100%;
+        height: 25%;
+        background-color: #ecdd0a;
+        text-align: center;
+        overflow: auto;
+        margin-bottom: 5px;
+    }
+    .block5{
+        width: 100%;
+        height: 370px;
+        text-align: center;
+        overflow: auto;
+        background-color: #f3ef2e;
+    }
+
+    .img{
+        display: flex;  
+        text-align: center;
+        height: auto;
+        width: 100%;
+    }
+    
+    .block3{
+        width: 100%;
+        height: 400px;
+        background-color: #1566e0;
+        box-sizing: border-box;
+        padding: 20px; 
+        overflow: auto;
+        margin-bottom: 5px;
+    }
+
+    .block6{
+        width: 100%;
+        height: 95px;
+        background-color: #f4e75d;
+        box-sizing: border-box;
+        padding: 20px; 
+        overflow: auto;
+    }
+
+    .block4{
+        height: 100%;
+        background-color:#1bafe4;
+        overflow: auto;
+    }
+    .footery{
+        width: 100%;
+        height: 110px;
+        background-color: #a6a4df;
+        margin-top:5px;
+        box-sizing: border-box;
+        padding: 30px; 
+        overflow: auto;
+        text-align: right;
+    }
+    
+}
+
+
+@media only screen and (max-width: 420px) {
+
+    .headx{
+        width: 100%;
+        height: 110px;
+        background-color: #3873d9;
+        
+        box-sizing: border-box;
+        
+        text-align: right;
+        }
+        
+        .main{
+            height: 500px;
+            display: flex;
+            justify-content: flex-start;
+            align-items: flex-start;
+        }
+        
+        .leftsidebar{
+            width: 30%;
+            height: 100%;
+            box-sizing: border-box;
+            margin: auto;
+        }
+        
+        .center{
+            width: 40%;
+            height: 100%;
+            justify-content: center;
+            align-items: center;
+
+        }
+        .rightsidebar{
+            width:30%;
+            height: 100%;
+            background-color:#1bafe4;
+            box-sizing: border-box;
+            margin: auto;
+        }
+        .block2{
+            width: 100%;
+            height: 25%;
+            background-color: #ecdd0a;
+            text-align: center;
+            overflow: auto;
+
+        }
+        .block5{
+            width: 100%;
+            height: 370px;
+            text-align: center;
+            overflow: auto;
+            background-color: #f3ef2e;
+        }
+    
+        .img{
+            display: flex;  
+            align-items: center;
+            height: auto;
+            width: 100%;
+        }
+        
+        .block3{
+            width: 100%;
+            height: 400px;
+            background-color: #1566e0;
+            box-sizing: border-box;
+
+            overflow: auto;
+
+        }
+    
+        .block6{
+            width: 100%;
+            height: 95px;
+            background-color: #f4e75d;
+            box-sizing: border-box;
+
+            overflow: auto;
+        }
+    
+        .block4{
+            height: 100%;
+            background-color:#1bafe4;
+            overflow: auto;
+        }
+        .footery{
+            width: 100%;
+            height: 110px;
+            background-color: #a6a4df;
+            
+            box-sizing: border-box;
+            
+            overflow: auto;
+            text-align: right;
+        }
+   
+}
